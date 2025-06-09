@@ -77,7 +77,3 @@ _Add screenshots of your Streamlit app here!_
 ![Screenshot 2025-06-09 151927](https://github.com/user-attachments/assets/6c071539-7801-4d44-8771-6f542ace1b5d)
 
 - [TMDB](https://www.themoviedb.org/) for the dataset.
-
-## License
-
-This project is licensed under the MIT License.
